@@ -1,1 +1,0 @@
-##收录工作中自己写的一些常用脚本(shell,perl,python,php等)
